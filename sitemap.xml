@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://literatureran.github.io/link/index.html</loc>
+    
+    <lastmod>2020-04-20T08:42:21.098Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://literatureran.github.io/archives/index.html</loc>
+    
+    <lastmod>2020-04-20T08:40:21.711Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://literatureran.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-04-20T08:39:48.664Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://literatureran.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-04-20T08:39:20.289Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://literatureran.github.io/2020/04/20/xiaoduan/</loc>
     
     <lastmod>2020-04-20T04:34:03.951Z</lastmod>
@@ -30,37 +58,9 @@
   </url>
   
   <url>
-    <loc>https://literatureran.github.io/archives/index.html</loc>
-    
-    <lastmod>2020-04-18T12:01:40.149Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://literatureran.github.io/about/index.html</loc>
     
     <lastmod>2020-04-18T12:01:38.879Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://literatureran.github.io/tags/index.html</loc>
-    
-    <lastmod>2020-04-18T12:01:36.853Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://literatureran.github.io/link/index.html</loc>
-    
-    <lastmod>2020-04-18T12:01:35.313Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://literatureran.github.io/categories/index.html</loc>
-    
-    <lastmod>2020-04-18T12:01:33.735Z</lastmod>
     
   </url>
   
